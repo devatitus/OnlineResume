@@ -70,7 +70,7 @@ export const workDetails = [
     Company: `OCTANET SERVICE`,
     Location: "Bengaluru",
     Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Duration: "April 2024 - Jun 2024",
   },
 ];
 
@@ -81,7 +81,7 @@ export const eduDetails = [
     Company: "Udemy, YouTube, Google, Medium",
     Location: "Online",
     Type: "Full Time",
-    Duration: "Jan 2022 - Present",
+    Duration: "April 2024",
   },
   {
     Position: "MASTER OF COMPUTER APPLICATION",
