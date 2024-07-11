@@ -53,21 +53,21 @@ export const socialMediaUrl = {
 export const workDetails = [
   {
     Position: "Frontend Web Developer",
-    Company: `Company Name here`,
+    Company: `OCTANET SERVICE`,
     Location: "Bengaluru",
     Type: "Full Time",
-    Duration: "Sep 2021 - Dec 2021",
+    Duration: "April 2024 - May 2024",
   },
   {
     Position: "Internship",
-    Company: `Company Name here`,
+    Company: `OCTANET SERVICE`,
     Location: "Bengaluru",
     Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Duration: "April 2024 - May 2024",
   },
   {
     Position: "Internship",
-    Company: `Company Name here`,
+    Company: `OCTANET SERVICE`,
     Location: "Bengaluru",
     Type: "Internship",
     Duration: "Sep 2021 - Dec 2021",
@@ -84,11 +84,11 @@ export const eduDetails = [
     Duration: "Jan 2022 - Present",
   },
   {
-    Position: "Bachelor in Electronics & Communication",
-    Company: `Your College Name here`,
-    Location: "Bengaluru",
-    Type: "Full Time",
-    Duration: "Aug 2020 - Present",
+    Position: "MASTER OF COMPUTER APPLICATION",
+    Company: `Dr.M.G.R. Educational and Research Institute`,
+    Location: "CHENNAI",
+    Type: "12:45:PM TO 3:45:PM",
+    Duration: "Present",
   },
 ];
 
