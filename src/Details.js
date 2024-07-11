@@ -38,7 +38,7 @@ export const personalDetails = {
   name: "J DEVA TITUS",
   tagline: "I build things for web",
   img: profile,
-  about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
+  about: `Welcome to my personal resume website! Here, you'll find a comprehensive overview of my professional journey, showcasing my skills, experiences, and achievements. Whether you're a potential employer, collaborator, or simply curious about my work, this site offers a detailed look at my career highlights, education, and projects. Explore my portfolio, read testimonials, and learn more about my expertise and passion . Thank you for visiting, and I look forward to connecting with you.`,
 };
 
 // Enter your Social Media URLs here
