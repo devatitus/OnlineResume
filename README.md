@@ -1,9 +1,5 @@
-# React Developer Portfolio template
+# React Developer using Online Resume project 
 #### Live Demo https://online-resume-eta.vercel.app/
-
-### Preview ( Dark Mode )
-
-<img src="/preview.gif" alt="preview" width="600px" />
 
 ## Follow Below instructions to add your deatils in the portfolio.
 
