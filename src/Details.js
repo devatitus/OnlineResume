@@ -113,13 +113,15 @@ export const techStackDetails = {
 // Enter your Project Details here
 export const projectDetails = [
   {
-    title: "Project title 1",
+    title: "Online Resume",
     image: projectImage1,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
+    description: `Online Resume is a personal portfolio built using ReactJS. It serves as a digital resume, 
+    showcasing your professional details, skills, and projects in an interactive and visually appealing way. 
+    The website is designed to highlight your education, technical expertise, 
+    and work experience, making it easy for recruiters and visitors to learn about your background.`,
     techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    previewLink: "https://online-resume-eta.vercel.app/",
+    githubLink: "https://github.com/devatitus/OnlineResume",
   },
   {
     title: "Project title 2",
