@@ -43,10 +43,10 @@ export const personalDetails = {
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/",
-  github: "https://www.github.com/",
-  twitter: "https://twitter.com/",
-  instagram: "https://www.instagram.com/",
+  linkdein: "https://www.linkedin.com/in/deva-titus-6336b4304/",
+  github: "https://github.com/devatitus",
+  twitter: "https://x.com/DevaTitusJ1?t=ffWAvrfF-GWWcf6HrBN1QQ&s=09",
+  instagram: "https://www.instagram.com/j.deva_titus_?igsh=M2ltNnpwdTk1cWNj",
 };
 
 // Enter your Work Experience here
