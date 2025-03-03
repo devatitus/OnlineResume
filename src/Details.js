@@ -124,13 +124,13 @@ export const projectDetails = [
     githubLink: "https://github.com/devatitus/OnlineResume",
   },
   {
-    title: "Project title 2",
+    title: "COLLEGE EVENT AND MANAGEMENT SYSTEM (CEAMS)",
     image: projectImage2,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
+    description: `The system is designed to help students, faculty, and administrators efficiently manage college events, 
+    from planning to execution. It provides a structured platform for event registration, scheduling, and communication.`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    githubLink: "https://github.com/devatitus/COLLEGE-EVENT-AND-MANAGEMENT-SYSTEM-CEAMS-",
   },
   {
     title: "Project title 3",
