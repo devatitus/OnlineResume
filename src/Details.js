@@ -119,7 +119,7 @@ export const projectDetails = [
     showcasing your professional details, skills, and projects in an interactive and visually appealing way. 
     The website is designed to highlight your education, technical expertise, 
     and work experience, making it easy for recruiters and visitors to learn about your background.`,
-    techstack: "HTML/CSS, JavaScript",
+    techstack: "HTML/CSS, JavaScript,React JS",
     previewLink: "https://online-resume-eta.vercel.app/",
     githubLink: "https://github.com/devatitus/OnlineResume",
   },
